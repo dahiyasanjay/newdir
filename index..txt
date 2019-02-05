@@ -1,0 +1,3 @@
+hello cloud guru
+hello amazon aws
+hello microsoft azure
